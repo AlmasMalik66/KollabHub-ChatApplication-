@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.chat-section {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
